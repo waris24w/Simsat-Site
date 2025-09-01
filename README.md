@@ -2,6 +2,11 @@
 
 A modern, interactive website for SIMSAT Computer Academy featuring dynamic animations, course filtering, and an engaging user experience.
 
+ <img src='preview.png'>
+ 
+ 🔗 Live Preview
+<a href="https://waris24w.github.io/Simsat-Site/">View Live Demo</a>
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
